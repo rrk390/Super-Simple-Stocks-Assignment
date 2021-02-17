@@ -13,12 +13,12 @@ Assignment for JP Morgan &amp; Chase
 
 Make sure Python 3 is already installed in the system.
 
-1. Create a virtual environment on the directory where project will placed:
+1. Create a **virtual environment** inside the directory where project's files will be placed:
 ```
 $ virtualenv <venv_name>
 ```
 2. Activate the virtual environment.
-3. Install the below package:
+3. Install the below python library/package:
 ```
 pip install pandas
 ```
