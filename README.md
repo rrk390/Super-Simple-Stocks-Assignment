@@ -3,7 +3,7 @@ Assignment for JP Morgan &amp; Chase
  
 ## Pre-requisites and Packages:
 
-- Python >3.7
+- Python 3
 - Virtual Environment
 - Pandas
 - Windows 10
