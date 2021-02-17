@@ -26,7 +26,7 @@ pip install pandas
 ```
 https://github.com/rrk390/Super-Simple-Stocks-Assignment.git
 ```
-5. Go to Super-Simple-Stocks-Assignment direcctory by executing below commands:
+5. Go to **Super-Simple-Stocks-Assignment** direcctory by executing below commands:
 ```
 cd Super-Simple-Stocks-Assignment
 ```
