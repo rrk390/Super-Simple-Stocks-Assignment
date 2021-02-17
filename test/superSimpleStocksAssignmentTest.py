@@ -1,9 +1,16 @@
+"""
+Unit test file for SuperSimpleStocksAssignment.
+Auther : Ritish Ranjan Khan
+"""
 import unittest
 import math
 import superSimpleStocksAssignment
 import time
 
 class TestSuperSimpleStocksAssignment(unittest.TestCase):
+    """
+    Functions to perform unit testing of the each functionality. 
+    """
     def testCalculateDividendYield(self):
         stock_name = superSimpleStocksAssignment.SuperSimpleStock('test/stock_data.csv')
         self.assertAlmostEqual(0, stock_name.calculate_dividend_yield(stock_name='TEA', stock_input_price=2))
