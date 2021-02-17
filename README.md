@@ -3,7 +3,7 @@ Assignment for JP Morgan &amp; Chase
  
 ## Pre-requisites and Packages:
 
-- Python >3.7
+- Python 3
 - Virtual Environment
 - Pandas
 - Windows 10
@@ -24,7 +24,7 @@ pip install pandas
 ```
 4. Clone the below git repository. 
 ```
-https://github.com/rrk390/Super-Simple-Stocks-Assignment.git
+git clone https://github.com/rrk390/Super-Simple-Stocks-Assignment.git
 ```
 5. Go to **Super-Simple-Stocks-Assignment** direcctory by executing below commands:
 ```
@@ -41,3 +41,4 @@ Ran 5 tests in 2.128s
 
 OK
 ```
+#### **Note:** If you want to change any data in test file please change the resulted values accordingly in the same test file. 
